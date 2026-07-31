@@ -12,7 +12,7 @@ Saya seorang **Web Developer** profesional yang berfokus pada pengolahan sistem 
 
 ### 🚀 Tentang Saya
 
-* 🛠️ **Pekerjaan Saat Ini:** Junior Web Programmer di Software House.
+* 🛠️ **Pekerjaan Saat Ini:** Web Developer.
 * 👀 **Minat & Fokus:** Arsitektur Sistem ERP, Manajemen Database Bisnis, Digitalisasi UMKM, dan Integrasi Sistem Backend ke Mobile.
 * 🌱 **Sedang Mendalami:** Optimasi performa Django berskala besar, pengembangan aplikasi *offline-first* dengan sinkronisasi database lokal ke cloud.
 * 📦 **Proyek Mandiri:** Mengembangkan dan mengemas beberapa aplikasi siap pakai (seperti ekosistem POS mandiri) menjadi produk *source code* komersial dengan standar industri yang matang.
