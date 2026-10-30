@@ -62,8 +62,8 @@ Jika Anda memiliki kebutuhan sistem bisnis, tertarik untuk bekerja sama, atau in
 
 * 📧 **Email:** tooto.ahmad@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/ahmad-roberto-324a95229
-* 🏢 **Software House Mandiri:** *Sundcode.com*
-* 🌐 **Web:** ahmadroberto.sundcode.com
+* 🏢 **Software House Mandiri:** www.sundcode.com
+* 🌐 **Web:** www.ahmadroberto.sundcode.com
 
 ---
 
