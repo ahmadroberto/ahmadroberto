@@ -1,4 +1,4 @@
-<img width="4032" height="1466" alt="image" src="https://github.com/user-attachments/assets/e486839a-242a-4683-91ba-52b72f21c444" /><img width="4032" height="1032" alt="image" src="https://github.com/user-attachments/assets/dc1d345e-19fe-4729-9dd7-f0d8149adc72" /># 👋 Halo, Saya Ahmad Roberto Minsha
+# 👋 Halo, Saya Ahmad Roberto Minsha
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Web%20Developer-blue?style=for-the-badge" alt="Role">
